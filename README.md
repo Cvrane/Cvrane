@@ -1,4 +1,4 @@
-<img src="https://github.com/Cvrane/Cvrane/blob/master/Hi.gif" width="40px"></h2> **Hello World!** :earth_asia: 
+<h2><img src="https://github.com/Cvrane/Cvrane/blob/master/Hi.gif"width="40px"> Hello World! :earth_asia: </h2>
 
 
 <a href="https://github.com/Cvrane">
@@ -12,7 +12,11 @@
   <img align="right" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
 </a>
 
-:dancer: 
+:dancer: `I love dancing! I'm a trained Bharatnatyam and Latin American (Bachata, Salsa, Merengue) dancer `:dancing_women:
+
+:woman_artist: `I find solace in painting! `
+
+
 
 ![Cvrane's github stats](https://github-readme-stats.vercel.app/api?username=Cvrane&theme=dracula&show_icons=true)
 
