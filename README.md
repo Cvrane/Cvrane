@@ -1,7 +1,7 @@
 <h2><img src="https://github.com/Cvrane/Cvrane/blob/master/Hi.gif"width="40px"> Hello World! :earth_asia: </h2>
 
 <a href="https://github.com/Cvrane">
-  <img align="right" alt="Chinmayee's Github" width="50px" src="https://img.icons8.com/bubbles/200/000000/github.png"/>
+  <img align="right" alt="Chinmayee's Github" width="40px" src="https://img.icons8.com/bubbles/200/000000/github.png"/>
 </a>
 <a href="https://www.linkedin.com/in/chinmayee-rane/">
   <img align="right" alt="Chinmayee's Linkdein" width="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>
