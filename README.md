@@ -13,7 +13,7 @@
   <img align="right" alt="My Email" width="40px" src="https://img.icons8.com/clouds/200/000000/gmail.png"/>
 </a>
 
- I'm a developer from India  <img src="https://img.icons8.com/doodle/48/000000/india.png" width="30px"/>
+ I'm a developer from India  <img src="https://img.icons8.com/doodle/48/000000/india.png" width="30px"/>, currently residing in the United States  <img src="https://img.icons8.com/doodle/48/000000/usa.png" width="30px"/>
 
 <img src="https://img.icons8.com/emoji/48/000000/dancing-girl.png" width="30px"/> I love dancing! I'm a trained Bharatnatyam and Latin American (Bachata, Salsa, Merengue) dancer <img src="https://img.icons8.com/color/48/000000/ballet-shoes.png" width="30px"/>
 
