@@ -17,9 +17,9 @@
 
 :dancer: `I love dancing! I'm a trained Bharatnatyam and Latin American (Bachata, Salsa, Merengue) dancer `<img src="https://img.icons8.com/color/48/000000/ballet-shoes.png" width="30px"/>
 
-:woman_artist: `And I find solace in painting! `
+:woman_artist: `And I find solace in painting ` <img src="https://img.icons8.com/plasticine/30/000000/paint-palette.png"/>
 
-<img src="https://img.icons8.com/bubbles/50/000000/girl-and-math-equation.png" width="50px"/> `With the exception of all, I love programming and math`
+<img src="https://img.icons8.com/bubbles/50/000000/girl-and-math-equation.png" width="50px"/> `But above all, I love programming and math!`
 <img src="https://img.icons8.com/office/40/000000/normal-distribution-histogram.png"/>
 
 
