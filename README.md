@@ -21,7 +21,7 @@
 
 <img src="https://img.icons8.com/bubbles/50/000000/girl-and-math-equation.png" width="50px"/> But above all, I love programming and math!  <img src="https://img.icons8.com/office/40/000000/normal-distribution-histogram.png"/>
 
-![Cvrane's github stats](https://github-readme-stats.vercel.app/api?username=Cvrane&theme=dracula&show_icons=true)
+![Cvrane's github stats](https://github-readme-stats.vercel.app/api?username=Cvrane&theme=solarized-light&show_icons=true)
 
 <!--
 **Cvrane/Cvrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
