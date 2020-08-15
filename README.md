@@ -19,7 +19,7 @@ I'm a developer from India  <img src="https://img.icons8.com/doodle/48/000000/in
 
 <img src="https://img.icons8.com/emoji/48/000000/woman-artist.png" width="30px"/> And I find solace in <a href="https://www.instagram.com/p/BwTLu5FgRcin45toU2zgI1CuL-Q2yUliJUFPp00/" title="Chin's painting">painting</a>  <img src="https://img.icons8.com/plasticine/30/000000/paint-palette.png"/>
 
-<img src="https://img.icons8.com/bubbles/50/000000/girl-and-math-equation.png" width="50px"/> `But above all, I love programming and math!`<img src="https://img.icons8.com/office/40/000000/normal-distribution-histogram.png"/>
+<img src="https://img.icons8.com/bubbles/50/000000/girl-and-math-equation.png" width="50px"/> But above all, I love programming and math!<img src="https://img.icons8.com/office/40/000000/normal-distribution-histogram.png"/>
 
 </pre>
 
