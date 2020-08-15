@@ -1,4 +1,4 @@
-<img src="Hi.gif" width="40px"></h2> **Hello World!** :earth_asia: 
+<img src="https://github.com/Cvrane/Cvrane/blob/master/Hi.gif" width="40px"></h2> **Hello World!** :earth_asia: 
 
 
 <a href="https://github.com/Cvrane">
