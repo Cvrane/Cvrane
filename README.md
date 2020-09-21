@@ -5,9 +5,9 @@
   <img align="right" alt="Chinmayee's Github" width="40px" src="https://img.icons8.com/bubbles/200/000000/github.png"/>
 </a>
 <a href="https://www.linkedin.com/in/chinmayee-rane/">
-  <img align="right" alt="Chinmayee's Linkdein" width="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>
+  <img align="right" alt="Chinmayee's LinkedIn" width="30px" src="https://img.icons8.com/doodle/96/000000/linkedin--v2.png"/>
 </a>
-<a href="mailto:ramechinmayee92@gmail.com">
+<a href="mailto:ranechinmayee92@gmail.com">
   <img align="right" alt="My Email" width="40px" src="https://img.icons8.com/clouds/200/000000/gmail.png"/>
 </a>
 
