@@ -12,7 +12,9 @@
 </a>
 
  I'm a developer from India  <img src="https://img.icons8.com/doodle/48/000000/india.png" width="30px"/>, currently residing in the United States  <img src="https://img.icons8.com/doodle/48/000000/usa.png" width="30px"/>
-<br>  I graduated with B.S. in Computer Science and B.A. in Applied Mathematics from the University at Buffalo. <img src="https://img.icons8.com/office/80/000000/student-female.png" width="30px" />
+ <br> I work as an AI/ML Specialist - Computer Vision at Amazon Web Services. <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+ <br>
+<br>  My educational background is: B.S. in Computer Science and B.A. in Applied Mathematics from the University at Buffalo. <img src="https://img.icons8.com/office/80/000000/student-female.png" width="30px" />
 
 ⚡ Fun facts about me : <br>
 <img src="https://img.icons8.com/emoji/48/000000/dancing-girl.png" width="30px"/> I love dancing! I'm a trained Bharatnatyam and Latin American (Bachata, Salsa, Merengue) dancer <img src="https://img.icons8.com/color/48/000000/ballet-shoes.png" width="30px"/>
